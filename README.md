@@ -30,4 +30,5 @@ https://github.com/Palkita/Python-Resources/blob/master/Python%20basics.ipynb
 Milan:
 
 Python topics covered on 13/06:
+
 https://github.com/mkchand02/Python-Resources/blob/master/June13.ipynb
